@@ -1,16 +1,13 @@
 ### Hi there, builders and breakers. 👋:zipper_mouth_face:
 
-![profile](https://user-images.githubusercontent.com/75243400/183578634-af0127b6-bc72-49ea-8a72-37b52302b5bb.jpg)
+<!--- ![profile](https://user-images.githubusercontent.com/75243400/183578634-af0127b6-bc72-49ea-8a72-37b52302b5bb.jpg) -->
 
-My name is Trevor and I am currently a software engineering student at Makerere University, Uganda. I have a rooted passion in building backend
-web applications and cloud based solutions. Most web developers start out in front end roles, but I have never been able to wrap my head around most of 
-that front end s***t. I am currently working mostly with NodeJS and I have a couple interesting projects(--check repositories), including a minimalistic
-chat application using web sockets.
+My name is Trevor and I am currently a software engineering student
 
-I read alot about backend web applications, cloud and databases. My favorite book is Building data-intensive applications by Martin Kleppman(atleast
-for now. Who knows, I may get another favorite. So sorry Martin). I am currently doing any NodeJs projects that feeds my curiosity on how most applications
-work. Ooooh, before I forget, I have also attempted to build a parser(lexer and tokeniser) from scratch.(not much success there, but still trying). 
-I am looking to collaborate and work on designing and building working systems. That is my technical pesona in a few.
+I read a lot about web, cloud based systems and distributed applications.
+
+My favorite technical book is Building data-intensive applications by Martin Kleppman
+
 
 ### 🛠 &nbsp;Tech Stack
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
