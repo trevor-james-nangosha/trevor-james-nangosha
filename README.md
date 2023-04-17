@@ -2,8 +2,8 @@
 
 <!--- ![profile](https://user-images.githubusercontent.com/75243400/183578634-af0127b6-bc72-49ea-8a72-37b52302b5bb.jpg) -->
 
-My name is Trevor.
-I read a lot about web, cloud based systems and distributed applications.
+My name is Trevor.  
+I read a lot about web, cloud based systems and distributed applications.  
 My favorite technical book is *`Building data-intensive applications`* by *Martin Kleppman*
 
 
